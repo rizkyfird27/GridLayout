@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GL1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:rowCount="2"
+    android:orientation="horizontal"
+    tools:context=".GridLayoutActivity">
+
+    <Button
+    android:id="@+id/b1"
+    android:layout_gravity="left|top"
+    android:background="@android:color/transparent"
+    android:text="A"/>
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:text="B"/>
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:text="C"/>
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:text="D"/>
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:text="E"/>
+
+    <Button
+        android:id="@+id/b6"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:text="F"/>
+
+    <Button
+        android:id="@+id/b7"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:text="G"/>
+
+    <Button
+        android:id="@+id/b8"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:text="H"/>
+
+    <Button
+        android:id="@+id/b9"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:text="I"/>
+
+    <Button
+        android:id="@+id/b10"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:text="J"/>
+
+    <Button
+        android:id="@+id/b11"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:text="K"/>
+
+    <Button
+        android:id="@+id/b12"
+        android:layout_gravity="left|top"
+        android:background="@android:color/transparent"
+        android:text="L"/>
+
+</GridLayout>
